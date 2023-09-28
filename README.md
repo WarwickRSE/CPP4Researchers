@@ -4,7 +4,7 @@ Examples and problems for C++ for Researchers course
 ## This Repo
 These are the code files and example sheets for Warwick RSEs "C++ for Researchers" one-day workshop.
 
-The code from the slides is all in the FromSlides directory. We suggest using these to recap syntax, and you might wish to borrow from them for the examples session.
+The code from the slides is all in the SlidesAndMore directory. We suggest using these to recap syntax, and you might wish to borrow from them for the examples session.
 
 The examples session is a chance to use the C++ we're teaching.
 We provide a pdf of examples you can work through, from the first slides up to some classes
